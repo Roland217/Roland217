@@ -1,13 +1,32 @@
 <h1>Hello, én Roland vagyok!</h1>
+<h2>Rólam</h2>
+<ul>
+  <li>🎓Informatikai Rendszer- és Alkalmazás-Üzemeltető Technikus</li>
+  <li>💻 Jelenleg egy otthoni labort építek, hogy gyakoroljam az első szintű támogatási készségeket.
+ 🏠</li>
+  <li>🚀Az IT-szektorba való belépésre motivált, 3+ éves ügyfélkiszolgálási tapasztalattal💬</li>
+  <li>🎨 Művész, aki szereti a kreatív problémamegoldást 🎶</li>
+</ul>
 
-<h2>👨‍💻 IT Projects:</h2>
+<h2>Készségek</h2>
+<strong>Technikai:</strong>
+<ul>
+  <li>🖥️ Windows/macOS hibaelhárítás és OS telepítés 🔧</li>
+  <li>🌐 Hálózatépítési alapok: TCP/IP, DHCP/DNS konfiguráció, és Wi-Fi beállítás 📶</li>
+  <li>🔑 Active Directory: felhasználó- és csoportkezelés, domain beállítás 👥</li>
+  <li>🛠️ Eszközkezelés: Hardvercserék (RAM, kijelző), nyomtatók konfigurálása és beállítása, hibaelhárítás és a rendszerteljesítmény optimalizálása, periféria-kezelés (billentyűzet, egér, stb.), és az eszközök közötti kapcsolat biztosítása</li>
+</ul>
 
-  - [Active Directory Home Lab](https://github.com/joshmadakor1/Algorithms-Practice)
-  - [Windows Server]
-  - [Linux Server]
+<h2>Projects</h2>
+<ul>
+  <li>🔧 <strong>Otthoni laboratóriumi környezetet hoztam létre az első szintű (1st line) támogatási készségek gyakorlására és elmélyítésére. Windows Server 2019-et tartományvezérlőként (Domain Controller) konfiguráltam, és vállalati környezet szimulálása érdekében Windows 10-es kliensekhez kapcsoltam. Feladatkörömbe tartozott az Active Directory kezelése, beleértve a felhasználók létrehozását, a jogosultságok beállítását és a csoportházirendek (Group Policy) konfigurálását. Emellett kísérleteztem eszközkonfigurációkkal, alapvető hálózati beállításokkal és hibaelhárítási módszerekkel</li>
+  <li>🔍 <strong>PicoCTF-feladatok: Kiberbiztonsági „Capture the Flag” (CTF) feladatok teljesítése a problémamegoldó és szkriptezési készségek fejlesztése érdekében, különös tekintettel a webes és hálózati sebezhetőségekre.</li>
+  <li>📄 <strong>Felhasználói beállítási dokumentáció: Dokumentáltam az Active Directory-beli felhasználói beállítási folyamatát, beleértve a vállalati környezetben történő hatékony üzembe helyezés lépéseit is. Részleteztem az operációs rendszer telepítésének, a felhasználói fiókok létrehozásának és az alapvető rendszer-konfigurációk elvégzésének eljárásait.</li>
+</ul>
+
 <h2>📄Certification</h2>
 
-  - [Informatikai Rendszer- és Alkalmazás-Üzemeltető Technikus](https://www.youtube.com/watch?v=a83ASGn_V_s)
+  - [Informatikai Rendszer- és Alkalmazás-Üzemeltető Technikus]()
 
 
 <h2> 🤳 Elérhetőségeim:</h2>
@@ -19,3 +38,4 @@
 [youtube]: https://www.youtube.com/c/joshmadakor
 [instagram]: https://www.instagram.com/joshmadakor/
 [linkedin]: https://linkedin.com/in/joshmadakor
++
