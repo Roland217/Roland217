@@ -25,7 +25,7 @@
   <li>📄 <strong>Felhasználói beállítási dokumentáció: Dokumentáltam az Active Directory-beli felhasználói beállítási folyamatát, beleértve a vállalati környezetben történő hatékony üzembe helyezés lépéseit is. Részleteztem az operációs rendszer telepítésének, a felhasználói fiókok létrehozásának és az alapvető rendszer-konfigurációk elvégzésének eljárásait.</li>
 </ul>
 
-<h2>📄Certification</h2>
+<h2>Certification</h2>
 
   - [Informatikai Rendszer- és Alkalmazás-Üzemeltető Technikus]()
 
