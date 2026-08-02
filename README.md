@@ -17,7 +17,7 @@
   <li>🛠️ Eszközkezelés: Hardvercserék (RAM, kijelző), nyomtatók konfigurálása és beállítása, hibaelhárítás és a rendszerteljesítmény optimalizálása, periféria-kezelés (billentyűzet, egér, stb.), és az eszközök közötti kapcsolat biztosítása</li>
 </ul>
 
-<h2>Projects</h2>
+<h2>Projektek</h2>
 <ul>
   <li>🔧 <strong>Otthoni laboratóriumi környezetet hoztam létre az első szintű (1st line) támogatási készségek gyakorlására és elmélyítésére. Windows Server 2019-et tartományvezérlőként (Domain Controller) konfiguráltam, és vállalati környezet szimulálása érdekében Windows 10-es kliensekhez kapcsoltam. Feladatkörömbe tartozott az Active Directory kezelése, beleértve a felhasználók létrehozását, a jogosultságok beállítását és a csoportházirendek (Group Policy) konfigurálását. Emellett kísérleteztem eszközkonfigurációkkal, alapvető hálózati beállításokkal és hibaelhárítási módszerekkel</li>
   <li>🔍 <strong>PicoCTF-feladatok: Kiberbiztonsági „Capture the Flag” (CTF) feladatok teljesítése a problémamegoldó és szkriptezési készségek fejlesztése érdekében, különös tekintettel a webes és hálózati sebezhetőségekre.</li>
