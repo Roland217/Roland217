@@ -15,6 +15,7 @@
   <li>🌐 Hálózatépítési alapok: TCP/IP, DHCP/DNS konfiguráció, és Wi-Fi beállítás 📶</li>
   <li>🔑 Active Directory: felhasználó- és csoportkezelés, domain beállítás 👥</li>
   <li>🛠️ Eszközkezelés: Hardvercserék (RAM, kijelző), nyomtatók konfigurálása és beállítása, hibaelhárítás és a rendszerteljesítmény optimalizálása, periféria-kezelés (billentyűzet, egér, stb.), és az eszközök közötti kapcsolat biztosítása</li>
+  <li>🌍 HTML és CSS: Weboldal-készítés és kialakítása📱</li>
 </ul>
 
 <h2>Projektek</h2>
