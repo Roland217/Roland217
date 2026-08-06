@@ -26,7 +26,7 @@
 
 <h2>Certification</h2>
 
-  - [Informatikai Rendszer- és Alkalmazás-Üzemeltető Technikus]()
+  - Informatikai Rendszer- és Alkalmazás-Üzemeltető Technikus
 
 
 <h2> 🤳 Elérhetőségeim:</h2>
