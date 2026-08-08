@@ -26,7 +26,7 @@
 
 <h2>Tanulmányok</h2>
 
-  - [Informatikai Rendszer- és Alkalmazás-Üzemeltető Technikus](https://imagehost9.online-image-editor.com/oie_upload/images/OIE_2019NOV_122225729_44723820/8141640no37ZED9.png))
+  - [Informatikai Rendszer- és Alkalmazás-Üzemeltető Technikus](https://imagehost9.online-image-editor.com/oie_upload/images/OIE_2019NOV_122225729_44723820/8141640no37ZED9.png)
 
 
 <h2> 🤳 Elérhetőségeim:</h2>
