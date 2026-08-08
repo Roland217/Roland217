@@ -24,9 +24,9 @@
   <li>📄 <strong>Felhasználói beállítási dokumentáció: Dokumentáltam az Active Directory-beli felhasználói beállítási folyamatát, beleértve a vállalati környezetben történő hatékony üzembe helyezés lépéseit is. Részleteztem az operációs rendszer telepítésének, a felhasználói fiókok létrehozásának és az alapvető rendszer-konfigurációk elvégzésének eljárásait.</li>
 </ul>
 
-<h2>Certification</h2>
+<h2>Tanulmányok</h2>
 
-  - [Informatikai Rendszer- és Alkalmazás-Üzemeltető Technikus]()
+  - [Informatikai Rendszer- és Alkalmazás-Üzemeltető Technikus](https://imagehost9.online-image-editor.com/oie_upload/images/OIE_2019NOV_122225729_44723820/8141640no37ZED9.png))
 
 
 <h2> 🤳 Elérhetőségeim:</h2>
@@ -37,4 +37,4 @@
 [twitter]: https://twitter.com/joshmadakor
 [youtube]: https://www.youtube.com/c/joshmadakor
 [instagram]: https://www.instagram.com/joshmadakor/
-[linkedin]: https://www.linkedin.com/in/roland-d%C3%B3ka-488330428
+[linkedin]: https://www.linkedin.com/in/roland-doka1
