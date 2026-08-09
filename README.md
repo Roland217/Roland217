@@ -26,7 +26,7 @@
 
 <h2>Tanulmányok</h2>
 
-  - [Informatikai Rendszer- és Alkalmazás-Üzemeltető Technikus](biz6.PNG)
+  - [Informatikai Rendszer- és Alkalmazás-Üzemeltető Technikus](Biz.png)
 
 
 <h2> 🤳 Elérhetőségeim:</h2>
